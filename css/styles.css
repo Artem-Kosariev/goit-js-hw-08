@@ -14,3 +14,7 @@
   max-width: 360px;
   height: 200px;
 }
+
+.gallery-image:hover {
+  transform: scale(1.05);
+}
